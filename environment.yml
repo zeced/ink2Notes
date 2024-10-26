@@ -87,6 +87,4 @@ dependencies:
   - xz=5.4.6=h5eee18b_1
   - yarl=1.11.0=py312h5eee18b_0
   - zlib=1.2.13=h5eee18b_1
-  - pip:
-      - git-filter-repo==2.45.0
 prefix: /home/zeced/miniconda3/envs/ai
